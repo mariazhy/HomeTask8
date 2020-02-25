@@ -1,0 +1,59 @@
+﻿[
+  {
+    "shipmentid": "Shipment1",
+    "address": "Kyiv",
+    "orders": [
+      {
+        "orderid": 1,
+        "producttype": "Phone",
+        "productcount": 1,
+        "customer": {
+          "customerid": "6E5AB85A-B786-42DE-B7A8-3DACD28957C2",
+          "customername": "Petrenko"
+        }
+      },
+      {
+        "orderid": 2,
+        "producttype": "TV Set",
+        "productcount": 2,
+        "customer": {
+          "customerid": "7E5AB85A-B786-42DE-B7A8-3DACD28957C2",
+          "customername": "Marchenko"
+        }
+      },
+      {
+        "orderid": 3,
+        "producttype": "Microwave",
+        "productcount": 2,
+        "customer": {
+          "customerid": "8E5AB85A-B786-42DE-B7A8-3DACD28957C2",
+          "customername": "Ivanchenko"
+        }
+      }
+    ]
+  },
+  {
+    "shipmentid": "Shipment2",
+    "address": "Kharkiv",
+    "orders": [
+      {
+        "orderid": 1,
+        "producttype": "Phone",
+        "productcount": 10,
+        "customer": {
+          "customerid": "9E5AB85A-B786-42DE-B7A8-3DACD28957C2",
+          "customername": "Koval"
+        }
+      },
+      {
+        "orderid": 2,
+        "producttype": "TV Set",
+        "productcount": 7,
+        "customer": {
+          "customerid": "0E5AB85A-B786-42DE-B7A8-3DACD28957C2",
+          "customername": "Komarenko"
+        }
+      }
+    ]
+  }
+]
