@@ -32,26 +32,5 @@ namespace HomeTask8
                 }
             }
         }
-
-
-       /* public string GetAnswer(string inputAnswer) 
-        {
-            do
-            {
-                Console.WriteLine("Do you want to print Shripments with details? Enter Yes or No");
-                if (string.IsNullOrEmpty(inputAnswer) || inputAnswer == "No")
-                {
-                    
-                }
-                else if (inputAnswer == "Yes")
-                {
-                }
-                else
-                {
-                    Console.WriteLine("You input is invalid");
-                }
-            } while (!string.IsNullOrEmpty(userAnswer) || userAnswer != "No" || userAnswer != "Yes");
-            return userAnswer;
-        }*/
     }
 }
